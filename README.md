@@ -1,4 +1,4 @@
-# decodeuriarray #JSON #OBJECT #ARRAY #decodeuri
+# decodeuriarray # json # object # array # decodeuri
 Public shared decodeuricomponent to array  function
 Use like this.
 
