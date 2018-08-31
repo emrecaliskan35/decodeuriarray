@@ -1,7 +1,5 @@
-# decodeuriarray
-
-Public shared decodeuricomponent to array function
-
+# decodeuriarray #JSON #OBJECT #ARRAY #decodeuri
+Public shared decodeuricomponent to array  function
 Use like this.
 
 var url = "sinif%5B%5D=1&sinif%5B%5D=2&yil%5B%5D=2005&a=3";
